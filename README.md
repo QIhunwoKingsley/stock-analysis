@@ -39,21 +39,15 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 ![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/dc00e0945d88563c4e2f2cdb1f9aad31a5ddffee/Resources/Requirements%205.1.png)
 
-![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/dc00e0945d88563c4e2f2cdb1f9aad31a5ddffee/Resources/Requirements%205.1.png)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/85b143411fba9548f9b62d84f2195d0f519b642a/Resources/Requirements%205.2.png)
 
 
 
 
-**6. The outputs for the 2017 and 2018 stock analyses in the `VBA_Challenge.xlsm` workbook match the outputs from the AllStockAnalysis in the module**
-
-> Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided (as shown in the images below, named **Dataset Examples Provided**). In adition, in our resources folder and below you can see the final Stock Analysis Results named, **Final VBA Analysis 2017 and 2018** save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png. Then, save the changes to your workbook..
-
-***Dataset Examples Provided***
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Dataset%20examples%20provided.PNG?raw=true)
+6. Finally, I ran the stock analysis, to confirm that my stock analysis outputs for 2017 and 2018 are the same as the example provided.
 
 
-> Below our Final VBA Analysis PNGs,
+ - Below our Final VBA Analysis PNGs,
 
 
 ***Final VBA Analysis 2017***
