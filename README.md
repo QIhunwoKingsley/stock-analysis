@@ -37,7 +37,10 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 5. To check if the code for formatting the cells in the spreadsheet is working - I made positive returns green and negative returns red to see which stocks did well and which ones didn't.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Code%20for%20formatting%20the%20cells%20in%20the%20spreadsheet%20is%20working.PNG?raw=true)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/dc00e0945d88563c4e2f2cdb1f9aad31a5ddffee/Resources/Requirements%205.1.png)
+
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/dc00e0945d88563c4e2f2cdb1f9aad31a5ddffee/Resources/Requirements%205.1.png)
+
 
 
 
