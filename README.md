@@ -31,37 +31,17 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
  - Created an **if-then** statement to check if the current row is the first row with the selected TickerIndex. If yes, I assigned the current closing price to the TickerStartingPrices and TickerEndingPrices variable.
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Start%20and%20EndPrices%20Code.PNG?raw=true)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/9ef4f64675db26cf5bb069ce8e40fd04aca1cd2f/Resources/Requirements%204.png)
 
 
 
-**5. Code for formatting the cells in the spreadsheet is working.**
-
-> We make positive returns green and negative returns red, to be a lot easier to determine which stocks did well and which ones didn't. Added some formatting based on the values of the returns. 
+5. To check if the code for formatting the cells in the spreadsheet is working - I made positive returns green and negative returns red to see which stocks did well and which ones didn't.
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Code%20for%20formatting%20the%20cells%20in%20the%20spreadsheet%20is%20working.PNG?raw=true)
 
 
-**6. There are comments to explain the purpose of the code.**
 
-> Adding **Comments** is requiered, as a **Best Practices for Writing Super Readable Code** such, 
-
-- Commenting & Documentation, 
-- Consistent Indentation, 
-- Avoid Obvious Comments. 
-- Code Grouping,
-- Consistent Naming Scheme,
-- DRY (Don't Repeat Yourself) Principle, 
-- Avoid Deep Nesting,
-- Limit Line Length, etc...
-
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Comments%20to%20explain%20the%20purpose%20of%20the%20code.PNG?raw=true)
-
-
-
-**7. The outputs for the 2017 and 2018 stock analyses in the `VBA_Challenge.xlsm` workbook match the outputs from the AllStockAnalysis in the module**
+**6. The outputs for the 2017 and 2018 stock analyses in the `VBA_Challenge.xlsm` workbook match the outputs from the AllStockAnalysis in the module**
 
 > Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided (as shown in the images below, named **Dataset Examples Provided**). In adition, in our resources folder and below you can see the final Stock Analysis Results named, **Final VBA Analysis 2017 and 2018** save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png. Then, save the changes to your workbook..
 
