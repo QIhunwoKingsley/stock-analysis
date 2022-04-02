@@ -52,7 +52,7 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 ***Final VBA Analysis 2017***
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/VBA_Challenge_2017.PNG?raw=true)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/ac33e2da8512d79abf6e4c9dfebb2df3235904a9/Resources/All_Stock_2017.png)
 
 
 ***Final VBA Analysis 2018***
