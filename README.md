@@ -44,7 +44,7 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 
 
-6. Finally, I ran the stock analysis, to confirm that my stock analysis outputs for 2017 and 2018 are the same as the example provided.
+6. Finally, I ran the stock analysis to confirm that my stock analysis outputs for 2017 and 2018 are the same as the example provided.
 
 
  - Below our Final VBA Analysis PNGs,
@@ -57,12 +57,12 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 ***Final VBA Analysis 2018***
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/VBA_Challenge_2018.PNG?raw=true)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/43cdc5ce3f55454b0942e213d13b8d0a2933bb4c/Resources/All_Stock_2018.png)
 
 
-**8. The pop-up messages showing the elapsed run time for the script are saved as `VBA_Challenge_2017.png` and `VBA_Challenge_2018.png`**
+7. The pop-up messages showing the elapsed run time for my script.
 
-> Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results.
+ - I ran my 2017 and 2018 data stock analysis which gave me elapsed run times for each year.
 
 
 ***Time on VBA_Challenge_2017.PNG***
