@@ -15,24 +15,20 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 2. Created Arrays are for Tickers, TickerVolumes, TickerStartingPrices, and TickerEndingPrices.
 
 
-3. The `tickerIndex` is used to access the stock ticker index for the `tickers`, `tickerVolumes`, `tickerStartingPrices`, and `tickerEndingPrices` arrays.
+3. The TickerIndex is used to access the stock ticker index for the Tickers, TickerVolumes, TickerStartingPrices, and TickerEndingPrices arrays.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/The%20tickerIndex%20is%20used%20to%20access%20the%20stock%20ticker.PNG?raw=true)
+       **Below is the screnshot exhibiting the codes in step 1-3 above.**
 
-
-**4. The script loops through stock data, reading and storing all of the following values from each row: `tickers`, `tickerVolumes`, `tickerStartingPrices`, and `tickerEndingPrices`.**
-
-> Created a **loop** that will loop over all the rows in the spreadsheet.
-> Inside the **loop**, we created a script that increases the current `tickerVolumes` **(stock ticker volume)** variable and adds the ticker volume for the current stock ticker.
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/1cb284076ca2599875baaab943732d805d35df38/Resources/Requirements%201-3.png)
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/The%20script%20loops%20through%20stock%20data,%20reading%20and%20storing.PNG?raw=true)
+4. Created a loop that will loop over all the rows in the spreadsheet.
+ - Inside the loop, I created a script that increases the current TickerVolumes (stock ticker volume) variable and then, I added the ticker volume for the current stock ticker.
 
 
+**Stored values from** TickerStartingPrices **and** TickerEndingPrices
 
-**Stored values from** `tickerStartingPrices` **and** `tickerEndingPrices`
-
-> Created an **if-then** statement to check if the current row is the first row with the selected `tickerIndex`. If it is, then assign the current closing price to the `tickerStartingPrices` and `tickerEndingPrices` variable.
+ - Created an **if-then** statement to check if the current row is the first row with the selected TickerIndex. If yes, I assigned the current closing price to the TickerStartingPrices and TickerEndingPrices variable.
 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Start%20and%20EndPrices%20Code.PNG?raw=true)
