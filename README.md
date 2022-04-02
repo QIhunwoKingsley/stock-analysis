@@ -67,7 +67,7 @@ In this project and analyisis, I’ll edit/refactor the Stock Market Dataset wit
 
 ***Time on VBA_Challenge_2017.PNG***
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/stock-analysis/blob/master/data_files/resources/Time%20for%202017%20analysis.PNG?raw=true)
+![name-of-you-image](https://github.com/QIhunwoKingsley/stock-analysis/blob/afcfbfeda001a4ee0b503a3f77d19a38da08c69b/Resources/VBA_Challenge_2017.png)
 
 
 ***Time on VBA_Challenge_2018.PNG***
